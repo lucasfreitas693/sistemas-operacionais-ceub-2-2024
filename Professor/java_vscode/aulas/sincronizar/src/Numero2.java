@@ -1,5 +1,3 @@
-package AppBanheiro;
-
 public class Numero2 implements Runnable {
 
     private Banheiro banheiro;
@@ -10,7 +8,7 @@ public class Numero2 implements Runnable {
 
     @Override
     public void run() {
-        this.banheiro.fazendoNumero2();
+        this.banheiro.fazerNumero2();
     }
 
 }
