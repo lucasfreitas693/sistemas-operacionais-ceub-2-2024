@@ -8,7 +8,7 @@ public class App {
 
         System.out.println(disciplina == disciplina2);
         System.out.println("Disciplina: " + disciplina);
-        System.out.println("Disciplina 2: " + disciplina2);
+        System.out.println("Disciplina 2:  " + disciplina2);
 
         disciplina = disciplina2;
 
